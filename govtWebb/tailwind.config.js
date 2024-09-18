@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "./index.html",
+    "web-App-govt/govtWebb/index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
